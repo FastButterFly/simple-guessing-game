@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/user/Projekty/guess_game/build",
+  "command": "/usr/bin/g++ -g -std=gnu++11 -o CMakeFiles/guessing_game.dir/src/main.cpp.o -c /home/user/Projekty/guess_game/src/main.cpp",
+  "file": "/home/user/Projekty/guess_game/src/main.cpp",
+  "output": "/home/user/Projekty/guess_game/build/CMakeFiles/guessing_game.dir/src/main.cpp.o"
+}
+]
