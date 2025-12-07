@@ -1,3 +1,0 @@
-/home/user/Projekty/guess_game/build/CMakeFiles/guessing_game.dir
-/home/user/Projekty/guess_game/build/CMakeFiles/edit_cache.dir
-/home/user/Projekty/guess_game/build/CMakeFiles/rebuild_cache.dir
